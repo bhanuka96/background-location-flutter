@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-375644755/android.background_locator.iml" filepath="$PROJECT_DIR$/.idea/modules/-375644755/android.background_locator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1154969072/android.location_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1154969072/android.location_permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1604338497/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/1604338497/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-966698137/android.path_provider_linux.iml" filepath="$PROJECT_DIR$/.idea/modules/-966698137/android.path_provider_linux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1600349139/android.path_provider_macos.iml" filepath="$PROJECT_DIR$/.idea/modules/-1600349139/android.path_provider_macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-95525574/android.path_provider_windows.iml" filepath="$PROJECT_DIR$/.idea/modules/-95525574/android.path_provider_windows.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+# This is a generated file; do not edit or check into version control.
+background_locator=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/background_locator-1.2.2+1/
+cloud_firestore=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.3+1/
+cloud_firestore_web=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.1+1/
+firebase_core=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.2+1/
+firebase_core_web=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1/
+location_permissions=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.5/
+path_provider=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.24/
+path_provider_linux=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_macos=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+6/
+path_provider_windows=/Users/bhanukaisuru/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3/

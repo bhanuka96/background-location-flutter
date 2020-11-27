@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1001773f-eab0-4cc2-a34e-f5771a7940ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kgr2hPTVDLDb4dC3MVyvqxQ432" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1001773f-eab0-4cc2-a34e-f5771a7940ed" name="Default Changelist" comment="" />
+      <created>1606132869381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606132869381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="345" key="GridCell.Tab.0.bottom" timestamp="1606488293758">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606488293758" />
+    <state width="1750" height="345" key="GridCell.Tab.0.center" timestamp="1606488293754">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606488293754" />
+    <state width="1750" height="345" key="GridCell.Tab.0.left" timestamp="1606488293744">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606488293744" />
+    <state width="1750" height="345" key="GridCell.Tab.0.right" timestamp="1606488293754">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="345" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606488293754" />
+    <state x="484" y="307" key="IDE.errors.dialog" timestamp="1606463862936">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="484" y="307" key="IDE.errors.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1606463862936" />
+    <state x="397" y="196" key="SettingsEditor" timestamp="1606487133977">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1606487133977" />
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606330729690">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1606330729690" />
+    <state x="588" y="315" width="913" height="490" key="find.popup" timestamp="1606369458030">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="588" y="315" width="913" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1606369458030" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>95</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/main.dart</url>
+          <line>93</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
